@@ -44,8 +44,7 @@ ol {
   justify-content: center;
   align-items: flex-end;
   inline-size: 100%;
-  padding-top: 133px;
-  padding-bottom: 133px;
+  padding: 133px 30px 133.53px 30px;
 }
 
 .result {
