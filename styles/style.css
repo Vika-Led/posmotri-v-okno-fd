@@ -9,6 +9,7 @@ html {
 }
 
 .page {
+  height: 800px;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
