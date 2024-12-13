@@ -1,1 +1,1 @@
-https://github.com/Vika-Led/posmotri_v_okno-fd
+https://github.com/Vika-Led/posmotri-v-okno-fd
