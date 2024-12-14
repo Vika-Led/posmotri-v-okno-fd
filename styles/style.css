@@ -193,7 +193,7 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::before {
 
 .button:focus-visible {
   outline: 1px solid #ffffff;
-  margin: 2px;
+  outline-offset: 1px;
 }
 
 .search-form__submit-button {
@@ -208,10 +208,6 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::before {
   max-height: 298px;
   min-height: 298px;
   min-width: 394px;
-}
-
-.content__list::-webkit-scrollbar {
-  display: none;
 }
 
 .content__details {
